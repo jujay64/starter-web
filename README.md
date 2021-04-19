@@ -18,3 +18,7 @@ Deployment can be any file
 
 You can fork and send pull request and we will review
 More about contribution
+
+## Copyright
+
+Cpyright Julien 2021
