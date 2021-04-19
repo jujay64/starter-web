@@ -16,4 +16,5 @@ Deployment can be any file
 
 ## How to contribute
 
-You can fork and send pull request
+You can fork and send pull request and we will review
+More about contribution
