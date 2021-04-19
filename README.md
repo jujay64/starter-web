@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This is a simple website to show how git works. Adding a line for rebasing example,
-then more changes from myfeature branch too.
+This is a simple website to show how git works. We do an emergency fix after stash
 
 ## Introduction
 
