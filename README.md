@@ -15,3 +15,5 @@ As stated above, the main purpose is to provide simple examples for Git training
 Deployment can be any file
 
 ## How to contribute
+
+You can fork and send pull request
