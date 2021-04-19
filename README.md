@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website to show how git works
+This is a simple website to show how git works. Adding a line for rebasing example.
 
 ## Introduction
 
