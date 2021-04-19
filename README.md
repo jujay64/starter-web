@@ -22,4 +22,4 @@ More about contribution and again more
 
 ## Copyright
 
-Cpyright Julien 2021
+Cpyright Julien 2021. All rights reserved.
